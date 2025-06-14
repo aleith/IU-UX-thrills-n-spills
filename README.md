@@ -1,4 +1,4 @@
-# UI/UX Thrills and Spills
+# UI|UX Thrills and Spills
 
 deep feedback, advice and/or feature requests for software products authored by devs in the Tech Giants down to indie devs. 
 
