@@ -1,4 +1,7 @@
-# IU-UX-thrills-n-spills
+# UI/UX Thrills and Spills
+
+deep feedback, advice and/or feature requests for software products authored by devs in the Tech Giants down to indie devs. 
+
 
 a repository for my log of UI/UX quirks, bug and issue fixes in third arty software I use from Apple macOS to iWork apps to FCP X to Adobe (too many) to indie developers.
 
